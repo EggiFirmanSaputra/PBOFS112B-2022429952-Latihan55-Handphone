@@ -9,7 +9,7 @@ package fs112b.pkg2022429952.latihan54_handphone;
  * @author
  * NAMA     : Eggi Firman Saputra
  * KELAS    : PBO/ FS112B
- * NIM      : 20224299552
+ * NIM      : 2022429952
  * Deskripsi Program : Menampilkan Spesifikasi handphone menggunakan inheritance dengan
  * super class yang berparameter
  *
